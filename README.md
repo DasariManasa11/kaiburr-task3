@@ -1,6 +1,6 @@
 # Output Screenshots
 
-### Initial Ouput
+### Initial Output
 
 ![Alt text](assets/1.png)
 
